@@ -37,7 +37,7 @@ Targeted Textures\
 Wetness Shader Fix\
 Architect Texture Pack\
 Architect Weather Addon\
-WET - Water Enhancement Textures\
+WET - Water Enhancement Textures
 
 # Audio
 LOST Audio Tweaks
