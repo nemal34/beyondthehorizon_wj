@@ -29,10 +29,10 @@ Ownership Fixes - Horizon Patch\
 Fortune Finder 4 Fix\
 Exit Terminals Ready For Combat\
 Terrain Undersides\
-PA Ownership Fix (with No PA Battery Pathing)
+PA Ownership Fix (with No PA Battery Pathing)\
+Rusty Face Fix
 
 # Textures-Visuals
-No Holotape Tease - Texture Replacement\
 Targeted Textures\
 Wetness Shader Fix\
 Architect Texture Pack\
