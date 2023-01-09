@@ -18,8 +18,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://github.com/nemal34/beyondthehorizon_wj/raw/main/bth.jpg",
-      "readme": "https://github.com/nemal34/beyondthehorizon_wj/blob/main/README.md",
+      "image": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/bth.jpg",
+      "readme": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/README.md",
       "download": "https://authored-files.wabbajack.org/Beyond%20the%20Horizon.wabbajack_ca457882-f89f-44c5-9bd5-e053a2da898f",
       "machineURL": "BtHz",
       "discordURL": "https://discord.gg/gW2xdaH"
