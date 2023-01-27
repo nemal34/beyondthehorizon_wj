@@ -30,7 +30,8 @@ Fortune Finder 4 Fix\
 Exit Terminals Ready For Combat\
 Terrain Undersides\
 PA Ownership Fix (with No PA Battery Pathing)\
-Rusty Face Fix
+Rusty Face Fix\
+Misc Anim Tweaks and Fixes
 
 # Textures-Visuals
 Targeted Textures\

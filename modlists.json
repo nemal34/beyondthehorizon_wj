@@ -20,19 +20,19 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/bth.jpg",
       "readme": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Beyond%20the%20Horizon.wabbajack_ca457882-f89f-44c5-9bd5-e053a2da898f",
+      "download": "https://authored-files.wabbajack.org/Beyond%20the%20Horizon.wabbajack_cf4974d3-8423-4910-9950-4a8250fd6197",
       "machineURL": "BtHz",
       "discordURL": "https://discord.gg/gW2xdaH"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "ZKUiixcA1JE=",
-      "Size": 2019164,
-      "NumberOfArchives": 233,
-      "SizeOfArchives": 49057971966,
-      "NumberOfInstalledFiles": 3073,
-      "SizeOfInstalledFiles": 51193049209
+      "Hash": "yZEw0FfcEsA=",
+      "Size": 2039618,
+      "NumberOfArchives": 122,
+      "SizeOfArchives": 11952025274,
+      "NumberOfInstalledFiles": 3024,
+      "SizeOfInstalledFiles": 14080868579
     },
-    "version": "0.9"
+    "version": "0.91"
   }
 ]
