@@ -23,7 +23,7 @@ A simple Fallout 4 modlist with the Horizon overhaul mod at its core.
 ---
 
 # Before you start
-- Use [BethINI](https://www.nexusmods.com/fallout4/mods/67) to setup your INIs.
+- Use BethINI to setup your INIs accordingly to your hardware.
 - Set your game difficulty to Survival.
 
 ---
