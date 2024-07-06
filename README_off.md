@@ -1,5 +1,5 @@
 # Horizon - Official Modlist
-A simple Fallout 4 modlist with the Horizon overhaul mod at its core.
+The official modlist for the Horizon overhaul mod.
 
 ---
 
