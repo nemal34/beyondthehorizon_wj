@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Beyond the Horizon",
+    "description": "A simple Fallout 4 modlist with the Horizon overhaul mod at its core.",
+    "author": "Greb751",
+    "maintainers": [
+      "github/nemal34"
+    ],
+    "game": "fallout4",
+    "tags": [
+      "Overhaul",
+      "Lightweight",
+      "Lore-Friendly"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/bth.jpg",
+      "readme": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Beyond%20the%20Horizon.wabbajack_cf4974d3-8423-4910-9950-4a8250fd6197",
+      "machineURL": "BtHz",
+      "discordURL": "https://discord.gg/gW2xdaH"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "yZEw0FfcEsA=",
+      "Size": 2039618,
+      "NumberOfArchives": 122,
+      "SizeOfArchives": 11952025274,
+      "NumberOfInstalledFiles": 3024,
+      "SizeOfInstalledFiles": 14080868579
+    },
+    "version": "0.91"
+  }
+]
