@@ -20,20 +20,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/hzoff.jpg",
       "readme": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/README_off.md",
-      "download": "https://authored-files.wabbajack.org/Horizon_Official_11.wabbajack_4622d2b6-296f-42f1-aa59-e7c7236e049a",
+      "download": "https://authored-files.wabbajack.org/Horizon_Official_12.wabbajack_3469919a-3642-4aa2-8b50-8d03df9524f9",
       "machineURL": "HzOff",
       "discordURL": "https://discord.gg/gW2xdaH"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "61aM9HE1HAc=",
-      "Size": 294050,
+      "Hash": "EB2ETf/FjRE=",
+      "Size": 550429,
       "NumberOfArchives": 28,
-      "SizeOfArchives": 5092852933,
-      "NumberOfInstalledFiles": 1925,
-      "SizeOfInstalledFiles": 6028247576
+      "SizeOfArchives": 5142912777,
+      "NumberOfInstalledFiles": 2332,
+      "SizeOfInstalledFiles": 6110371998
     },
-    "version": "1.1"
+    "version": "1.2"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",

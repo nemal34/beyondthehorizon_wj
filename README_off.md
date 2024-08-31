@@ -24,6 +24,20 @@ If you're using the **GOG** or **downgraded Steam** versions, always launch the 
 
 ---
 
+# Changelog
+- 1.2 (2024-08-31)\
+Switched to global INIs to avoid future issues\
+Updated Simple Creation Club Delayed NG and CC Hellfire PA Horizon Patch
+
+- 1.1 (2024-07-17)\
+Removed Horizon's main menu file to fix the game crashing on NG\
+Fixed INI language
+
+- 1.0 (2024-07-16)\
+Initial release
+
+---
+
 # Useful links
 - [Horizon Wiki](https://antifandom.com/fo4horizon/wiki/Horizon_Wiki)
 - [Horizon Discord Server](https://discord.gg/gW2xdaH)
