@@ -25,6 +25,9 @@ If you're using the **GOG** or **downgraded Steam** versions, always launch the 
 ---
 
 # Changelog
+- 1.3 (2025-03-10)\
+Updated Buffout 4 NG, High FPS Physics Fix, Unofficial Fallout 4 Patch, Simple Creation Club Delayed NG and CC Hellfire PA Horizon Patch
+
 - 1.2 (2024-08-31)\
 Switched to global INIs to avoid future issues\
 Updated Simple Creation Club Delayed NG and CC Hellfire PA Horizon Patch
@@ -69,5 +72,5 @@ Initial release
 
 ## Horizon
 - [Horizon](https://www.nexusmods.com/fallout4/mods/17374)
-- [Greb's Horizon 1.9 Patches](https://www.nexusmods.com/fallout4/mods/69033) - Temporary patches before Horizon is updated to support the new CC content
-- [Starguardace's Horizon 1.9 Patches](https://www.nexusmods.com/fallout4/mods/69041) - Temporary patches before Horizon is updated to support the new CC content
+- [Greb's Horizon 1.9 Patches](https://www.nexusmods.com/fallout4/mods/69033)
+- [Starguardace's Horizon 1.9 Patches](https://www.nexusmods.com/fallout4/mods/69041)
