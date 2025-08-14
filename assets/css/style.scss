@@ -1,0 +1,29 @@
+---
+---
+
+@import "{{ site.theme }}";
+body {
+    color: $text-white;
+    background-color: $bg-gray-dark;
+}
+a {
+    color: $blue-300;
+}
+.markdown-body {
+    blockquote {
+      color: $gray-300;
+    }
+    table {
+        th,
+        td {
+          border: 2px solid $text-white;
+        }
+    
+        tr {
+          background-color: $bg-gray-dark;
+          border-top: 2px solid $text-white;
+        }
+    }
+}
+
+  
