@@ -21,7 +21,7 @@ The official modlist for the Horizon overhaul mod.
 - Launch **BethINI** from MO2 and follow the [Game Settings section from The Midnight Ride](https://themidnightride.moddinglinked.com/mo2.html#GameSettings) to set your game settings (Start at Step #8).
 - If you are using an **ultrawide** monitor, you will need to enable the **Ultra Wide Interface (21x9)** mod in the left pane of MO2. Make sure it is loaded **below** Horizon.
 - Launch **F4SE** from MO2:
-    - If you're using the **Steam** version of FO4, a command prompt will appear on the first launch and run the downgrader. Press Enter to launch the game when the following message appears: *"Patching successful. You may close the patcher now."*.\
+    - If you're using the **Steam** version of FO4, a command prompt will appear on the first launch and run the downgrader.\
     The game will now be downgraded but your game files will be intact thanks to Root Builder.
     - If you're using the **GOG** version, the downgrade will be skipped and the game will launch.
 - That's it. Enjoy Horizon!
@@ -29,7 +29,10 @@ The official modlist for the Horizon overhaul mod.
 ---
 
 # Changelog
-- **2.0** (2025-08-14)\
+- **1.5** (2025-11-12)\
+Fixed the downgrader to be compatible with the Anniversary Update
+
+- **1.4** (2025-08-14)\
 Added Simple Fallout 4 Downgrader and tweaked the launcher to automatically revert the Steam version to 1.10.163 through Root Builder\
 Replaced Everyone's Best Friend with Simple Everyone's Best Friend\
 Updated Buffout 4 NG, Unofficial Fallout 4 Patch, Simple Creation Club Delayed NG and CC Hellfire PA Horizon Patch
