@@ -7,7 +7,7 @@ The official modlist for the Horizon overhaul mod.
 - [Horizon](https://www.nexusmods.com/fallout4/mods/17374), what Fallout 4 should have been: Overhauled gameplay focused on Survival Mode, challenging but rewarding balance, combat changes, healing changes, crafting changes, item sorting, a workshop production system, and the list goes on..
 - Stable and (mostly) bugfree experience thanks to [Unofficial Fallout 4 Patch](https://www.nexusmods.com/fallout4/mods/4598), [Buffout 4 NG](https://www.nexusmods.com/fallout4/mods/64880) and [High FPS Physics Fix](https://www.nexusmods.com/fallout4/mods/44798)
 - Tweaked vanilla visuals using [Architect Weather and Lighting Addon and Texture Pack](https://www.nexusmods.com/fallout4/mods/17374)
-- Compatible with Steam and GOG versions of the game, thanks to the magic of [Simple Fallout 4 Downgrader](https://www.nexusmods.com/fallout4/mods/81933), [Root Builder](https://kezyma.github.io/?p=rootbuilder) and [BASS](https://www.nexusmods.com/fallout4/mods/81859). Make sure to read the [After Installation](#after-installation) section.
+- Compatible with Steam and GOG versions of the game, thanks to the magic of delta patching, [Root Builder](https://kezyma.github.io/?p=rootbuilder) and [BASS](https://www.nexusmods.com/fallout4/mods/81859). Make sure to read the [After Installation](#after-installation) section.
 
 ---
 
@@ -29,7 +29,11 @@ The official modlist for the Horizon overhaul mod.
 ---
 
 # Changelog
-- **1.5** (2025-11-12)\
+- **1.4.2** (2025-11-26)\
+Fixed the downgrader to be compatible with the 2025-11-26 steam update\
+Updated Unofficial Fallout 4 Patch and Simple Everyone's Best Friend
+
+- **1.4.1** (2025-11-12)\
 Fixed the downgrader to be compatible with the Anniversary Update
 
 - **1.4** (2025-08-14)\

@@ -20,20 +20,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/nemal34/beyondthehorizon_wj/main/horizon_official.webp",
       "readme": "https://nemal34.github.io/beyondthehorizon_wj/README_official.html",
-      "download": "https://authored-files.wabbajack.org/Horizon_Official_15.wabbajack_08694be4-c205-4ac4-a608-fbd44ee885a4",
+      "download": "https://authored-files.wabbajack.org/Horizon_Official_142.wabbajack_3b653161-8cb1-4705-a31f-042da1825160",
       "machineURL": "HzOff",
       "discordURL": "https://discord.gg/gW2xdaH"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "7G0dqFXS8dA=",
-      "Size": 51470505,
+      "Hash": "DY9Haj5BFL8=",
+      "Size": 51475604,
       "NumberOfArchives": 27,
-      "SizeOfArchives": 5232312815,
-      "NumberOfInstalledFiles": 2317,
-      "SizeOfInstalledFiles": 6257432013
+      "SizeOfArchives": 5232156035,
+      "NumberOfInstalledFiles": 2318,
+      "SizeOfInstalledFiles": 6228583202
     },
-    "version": "1.5"
+    "version": "1.4.2"
   },
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
