@@ -28,6 +28,11 @@ You should see a command prompt appear briefly will the downgrading process is h
 ---
 
 # Changelog
+- **1.4.3** (2025-12-17)\
+Fixed the downgrader to be compatible with the 2025-12-16 steam update\
+Replaced the NG CC patches with the AIO patch\
+Updated Unofficial Fallout 4 Patch
+
 - **1.4.2** (2025-11-26)\
 Fixed the downgrader to be compatible with the 2025-11-26 steam update\
 Updated Unofficial Fallout 4 Patch and Simple Everyone's Best Friend
@@ -89,5 +94,4 @@ Initial release
 
 ## Horizon
 - [Horizon](https://www.nexusmods.com/fallout4/mods/17374) by Zawinul
-- [Starguardace's Horizon 1.9 Patches](https://www.nexusmods.com/fallout4/mods/69041) by Starguardace
-- [Greb's Horizon 1.9 Patches](https://www.nexusmods.com/fallout4/mods/69033) by Greb751
+- [Horizon NG CC Patch](https://www.nexusmods.com/fallout4/mods/17374) by Zawinul, Starguardace and Greb751
