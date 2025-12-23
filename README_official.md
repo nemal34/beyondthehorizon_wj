@@ -21,7 +21,7 @@ The official modlist for the Horizon overhaul mod.
 - Launch **BethINI** from MO2 and follow the [Game Settings section from The Midnight Ride](https://themidnightride.moddinglinked.com/mo2.html#GameSettings) to set your game settings (Start at Step #8).
 - If you are using an **ultrawide** monitor, you will need to enable the **Ultra Wide Interface (21x9)** mod in the left pane of MO2. Make sure it is loaded **below** Horizon.
 - If you're using the **Steam** version of FO4, launch **Downgrader** from the executables dropdown in MO2.\
-You should see a command prompt appear briefly will the downgrading process is happening.
+A command prompt will appear while the downgrading process is happening. Press Enter to exit when prompted to.
 - Launch **F4SE** from MO2
 - That's it. Enjoy Horizon!
 
